@@ -3,6 +3,7 @@
 #
 # This is the setting file for scribe_log
 #
+# add
 
 __authors__  = ['jacky wu <jacky.wucheng@gmail.com>', ]
 __version__  = 1.0
